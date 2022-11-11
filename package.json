@@ -1,0 +1,27 @@
+{
+  "name": "hello-world-js-action-svemu",
+  "version": "1.0.0",
+  "description": "Hello world JS action from the docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svemu/hello-world-js-action-svemu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svemu/hello-world-js-action-svemu/issues"
+  },
+  "homepage": "https://github.com/svemu/hello-world-js-action-svemu#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1",
+    "@vercel/ncc": "^0.34.0",
+    "g": "^2.0.1"
+  }
+}
