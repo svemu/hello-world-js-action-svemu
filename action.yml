@@ -1,5 +1,8 @@
-name: 'Hello World'
+name: 'Hello World SVemu'
 description: 'Greet someone and record the time'
+branding:
+  icon: "clipboard"
+  color: yellow
 inputs:
   who-to-greet:  # id of input
     description: 'Who to greet'
