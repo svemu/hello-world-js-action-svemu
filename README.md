@@ -21,3 +21,4 @@ uses: actions/hello-world-javascript-action@v1.1
 with:
   who-to-greet: 'svemu'
 ```
+Changing the Readme file to create a new version and republish the action on Marketplace.
