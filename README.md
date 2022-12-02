@@ -22,3 +22,4 @@ with:
   who-to-greet: 'svemu'
 ```
 Changing the Readme file to create a new version and republish the action on Marketplace.
+Changing the Readme file againg to create the 1.3 version 
